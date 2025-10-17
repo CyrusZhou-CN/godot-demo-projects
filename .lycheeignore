@@ -28,3 +28,6 @@ tcp:\/\/.*
 
 # Class reference mentions `example.com/index.php` in an example, which is 404.
 .*example\.com.*
+
+# Ignore Shadertoy URLs due to bot protection
+// https://www.shadertoy.com/*
