@@ -30,4 +30,4 @@ tcp:\/\/.*
 .*example\.com.*
 
 # Ignore Shadertoy URLs due to bot protection
-// https://www.shadertoy.com/*
+.*shadertoy\.com.*
